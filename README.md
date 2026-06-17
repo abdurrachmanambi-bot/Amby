@@ -1,2 +1,2 @@
-# Amby-Porto
-Ekonomi Informasi
+# Ekonomi Informasi
+Abdurrachman Amby
